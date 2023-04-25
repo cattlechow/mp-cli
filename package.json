@@ -9,7 +9,11 @@
   "bin": {
     "mp-cli": "./index.js"
   },
-  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cattlechow/mp-cli.git"
+  },
+  "homepage": "https://github.com/cattlechow/mp-cli.git",
   "keywords": ["cli","mp-cli"],
   "author": "cattlechow",
   "license": "ISC",
