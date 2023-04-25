@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cattlechow/mp-cli.git"
+    "url": "git+https://github.com/cattlechow/mpt-cli.git"
   },
-  "homepage": "https://github.com/cattlechow/mp-cli.git",
+  "homepage": "https://github.com/cattlechow/mpt-cli.git",
   "keywords": [
     "cli",
     "mp-cli"
