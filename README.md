@@ -5,10 +5,10 @@ A scaffold for managing project templates
 To install the CLI tool, run the following command:
 
 ```js
-npm install -g mp-cli
+npm install -g mpt-cli
 ```
 ## Usage
 To create a new React project, run the following command:
 ```js
-mp-cli init <projectName>
+mpt-cli init <projectName>
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "mp-cli",
+  "name": "mpt-cli",
   "version": "1.0.0",
   "description": "A scaffold for managing project templates",
   "main": "index.js",
@@ -7,14 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "mp-cli": "./index.js"
+    "mpt-cli": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cattlechow/mp-cli.git"
   },
   "homepage": "https://github.com/cattlechow/mp-cli.git",
-  "keywords": ["cli","mp-cli"],
+  "keywords": [
+    "cli",
+    "mp-cli"
+  ],
   "author": "cattlechow",
   "license": "ISC",
   "dependencies": {
